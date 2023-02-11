@@ -1,0 +1,15 @@
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\bin\Debug\net7.0\Mindfulness_Program.exe
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\bin\Debug\net7.0\Mindfulness_Program.deps.json
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\bin\Debug\net7.0\Mindfulness_Program.runtimeconfig.json
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\bin\Debug\net7.0\Mindfulness_Program.dll
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\bin\Debug\net7.0\Mindfulness_Program.pdb
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.csproj.AssemblyReference.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.AssemblyInfoInputs.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.AssemblyInfo.cs
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.csproj.CoreCompileInputs.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.dll
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\refint\Mindfulness_Program.dll
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.pdb
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\Mindfulness_Program.genruntimeconfig.cache
+C:\Users\Leven\Desktop\ProgrammingWithClasses\Mindfulness_Program\Mindfulness_Program\obj\Debug\net7.0\ref\Mindfulness_Program.dll

@@ -1,0 +1,3 @@
+class ReflectingActivity : Activity {
+    
+}
